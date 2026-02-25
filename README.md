@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Rebecca!
 
-<!--
-**rcchao/rcchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software engineer who loves developer tooling and experience :)
 
-Here are some ideas to get you started:
+## Pinned Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[WeRoster](https://github.com/rcchao/weroster-team41)**  
+Cross-platform mobile application for clinicians, built for client WeRoster.  
+TypeScript, React Native, Expo, Node.js.  
+See repo for demos.
+
+**[Reharvest](https://github.com/cmll21/codebrew2025)**  
+Ecommerce platform enabling farmers to sell rejected produce.  
+Python, Django, React, TypeScript.  
+🏆 **Best Product — Codebrew 2025** (137 competitors, 37 teams). [Devpost](https://devpost.com/software/bite-me)
