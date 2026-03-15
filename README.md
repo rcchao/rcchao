@@ -13,3 +13,5 @@ See repo for demos.
 Ecommerce platform enabling farmers to sell rejected produce.  
 Python, Django, React, TypeScript.  
 🏆 **Best Product — Codebrew 2025** (137 competitors, 37 teams). [Devpost](https://devpost.com/software/bite-me)
+
+<img src="https://komarev.com/ghpvc/?username=rcchao&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
