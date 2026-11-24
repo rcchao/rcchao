@@ -32,14 +32,25 @@ text { fill: #c9d1d9; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas
 <defs><clipPath id="inner"><rect x="1" y="214" width="838" height="245" rx="10"/></clipPath></defs>
 
 <g transform="translate(0 96)">
-<!-- bunny ears poking out of the title bar; textLength pins each braille cell to 8.4px -->
-<text x="336.0" y="-80" textLength="168.0" lengthAdjust="spacing">⠀⢀⡤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
-<text x="336.0" y="-66" textLength="168.0" lengthAdjust="spacing">⢠⡏⠀⠀⠳⡄⠀⠀⠀⠀⠀⠀⣀⣀⣀⠀⠀⠀⠀⠀</text>
-<text x="336.0" y="-52" textLength="168.0" lengthAdjust="spacing">⢸⠃⠀⠀⠀⢿⠀⠀⠀⠀⠀⣼⠃⠀⠘⢧⠀⠀⠀⠀</text>
-<text x="336.0" y="-38" textLength="168.0" lengthAdjust="spacing">⢸⡆⠀⠀⠀⠸⡆⠀⠀⠀⣸⠃⠀⠀⠀⠈⢧⠀⠀⠀</text>
-<text x="336.0" y="-24" textLength="168.0" lengthAdjust="spacing">⠈⣇⠀⠀⠀⠀⣧⠀⠀⠀⡏⠀⢦⠀⠀⠀⠸⡆⠀⠀</text>
-<text x="336.0" y="-10" textLength="168.0" lengthAdjust="spacing">⠀⢹⡀⠀⠀⠀⢸⠀⠀⠀⢸⠇⠀⠘⢧⡀⠀⣸⠃⠀</text>
-<text x="336.0" y="4" textLength="168.0" lengthAdjust="spacing">⠀⠀⢳⠀⠀⠀⢸⡆⠀⠀⢸⠀⠀⠀⣼⠙⠋⠁⠀⠀</text>
+<!-- bunny ears poking out of the title bar, mostly still with the odd twitch, like real ones; textLength pins each braille cell to 8.4px -->
+<g><animateTransform attributeName="transform" type="rotate" values="0 378 4;0 378 4;-6 378 4;2 378 4;-1 378 4;0 378 4;0 378 4;-3 378 4;0 378 4;0 378 4" keyTimes="0;0.5;0.53;0.57;0.61;0.65;0.84;0.86;0.89;1" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" dur="6.7s" begin="0s" repeatCount="indefinite"/>
+  <text x="336.0" y="-80" textLength="75.6" lengthAdjust="spacing">⠀⢀⡤⣄⡀⠀⠀⠀⠀</text>
+  <text x="336.0" y="-66" textLength="75.6" lengthAdjust="spacing">⢠⡏⠀⠀⠳⡄⠀⠀⠀</text>
+  <text x="336.0" y="-52" textLength="75.6" lengthAdjust="spacing">⢸⠃⠀⠀⠀⢿⠀⠀⠀</text>
+  <text x="336.0" y="-38" textLength="75.6" lengthAdjust="spacing">⢸⡆⠀⠀⠀⠸⡆⠀⠀</text>
+  <text x="336.0" y="-24" textLength="75.6" lengthAdjust="spacing">⠈⣇⠀⠀⠀⠀⣧⠀⠀</text>
+  <text x="336.0" y="-10" textLength="75.6" lengthAdjust="spacing">⠀⢹⡀⠀⠀⠀⢸⠀⠀</text>
+  <text x="336.0" y="4" textLength="75.6" lengthAdjust="spacing">⠀⠀⢳⠀⠀⠀⢸⡆⠀</text>
+</g>
+<g><animateTransform attributeName="transform" type="rotate" values="0 437 4;0 437 4;6 437 4;6 437 4;-2 437 4;1 437 4;0 437 4;0 437 4;4 437 4;0 437 4;3 437 4;0 437 4;0 437 4" keyTimes="0;0.12;0.24;0.4;0.46;0.5;0.53;0.76;0.78;0.8;0.82;0.85;1" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1" dur="8.9s" begin="-2s" repeatCount="indefinite"/>
+  <text x="411.6" y="-80" textLength="92.4" lengthAdjust="spacing">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</text>
+  <text x="411.6" y="-66" textLength="92.4" lengthAdjust="spacing">⠀⠀⠀⣀⣀⣀⠀⠀⠀⠀⠀</text>
+  <text x="411.6" y="-52" textLength="92.4" lengthAdjust="spacing">⠀⠀⣼⠃⠀⠘⢧⠀⠀⠀⠀</text>
+  <text x="411.6" y="-38" textLength="92.4" lengthAdjust="spacing">⠀⣸⠃⠀⠀⠀⠈⢧⠀⠀⠀</text>
+  <text x="411.6" y="-24" textLength="92.4" lengthAdjust="spacing">⠀⡏⠀⢦⠀⠀⠀⠸⡆⠀⠀</text>
+  <text x="411.6" y="-10" textLength="92.4" lengthAdjust="spacing">⠀⢸⠇⠀⠘⢧⡀⠀⣸⠃⠀</text>
+  <text x="411.6" y="4" textLength="92.4" lengthAdjust="spacing">⠀⢸⠀⠀⠀⣼⠙⠋⠁⠀⠀</text>
+</g>
 
 <rect class="win" x="0.5" y="0.5" width="839" height="459" rx="10"/>
 <path class="bar" d="M10.5 0.5h819a10 10 0 0 1 10 10v19.5h-839v-19.5a10 10 0 0 1 10-10z"/>
